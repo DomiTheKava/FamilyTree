@@ -16,6 +16,8 @@
 		10EB43E02CBF21480048B5C4 /* FamilyTreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB43DF2CBF21480048B5C4 /* FamilyTreeTests.swift */; };
 		10EB43EA2CBF21480048B5C4 /* FamilyTreeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB43E92CBF21480048B5C4 /* FamilyTreeUITests.swift */; };
 		10EB43EC2CBF21480048B5C4 /* FamilyTreeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB43EB2CBF21480048B5C4 /* FamilyTreeUITestsLaunchTests.swift */; };
+		10EB43F92CBF37100048B5C4 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB43F82CBF37100048B5C4 /* SecondVC.swift */; };
+		10EB43FB2CBF5A240048B5C4 /* imageDateHolder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB43FA2CBF5A240048B5C4 /* imageDateHolder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		10EB43E52CBF21480048B5C4 /* FamilyTreeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FamilyTreeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		10EB43E92CBF21480048B5C4 /* FamilyTreeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FamilyTreeUITests.swift; sourceTree = "<group>"; };
 		10EB43EB2CBF21480048B5C4 /* FamilyTreeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FamilyTreeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		10EB43F82CBF37100048B5C4 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
+		10EB43FA2CBF5A240048B5C4 /* imageDateHolder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageDateHolder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				10EB43C82CBF21470048B5C4 /* AppDelegate.swift */,
 				10EB43CA2CBF21470048B5C4 /* SceneDelegate.swift */,
 				10EB43CC2CBF21470048B5C4 /* ViewController.swift */,
+				10EB43FA2CBF5A240048B5C4 /* imageDateHolder.swift */,
+				10EB43F82CBF37100048B5C4 /* SecondVC.swift */,
 				10EB43CE2CBF21470048B5C4 /* Main.storyboard */,
 				10EB43D12CBF21480048B5C4 /* Assets.xcassets */,
 				10EB43D32CBF21480048B5C4 /* LaunchScreen.storyboard */,
@@ -260,7 +266,9 @@
 			files = (
 				10EB43CD2CBF21470048B5C4 /* ViewController.swift in Sources */,
 				10EB43C92CBF21470048B5C4 /* AppDelegate.swift in Sources */,
+				10EB43F92CBF37100048B5C4 /* SecondVC.swift in Sources */,
 				10EB43CB2CBF21470048B5C4 /* SceneDelegate.swift in Sources */,
+				10EB43FB2CBF5A240048B5C4 /* imageDateHolder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
